@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/austinjijo2008/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/austinjijo2008/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/austinjijo2008/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/austinjijo2008/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/austinjijo2008/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/austinjijo2008/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/austinjijo2008/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/austinjijo2008/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/austinjijo2008/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/austinjijo2008/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/austinjijo2008/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/austinjijo2008/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
