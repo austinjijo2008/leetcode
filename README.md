@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/austinjijo2008/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/austinjijo2008/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/austinjijo2008/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/austinjijo2008/leetcode/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/austinjijo2008/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/austinjijo2008/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/austinjijo2008/leetcode/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/austinjijo2008/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
