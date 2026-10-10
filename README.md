@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/austinjijo2008/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/austinjijo2008/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/austinjijo2008/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0796-rotate-string](https://github.com/austinjijo2008/leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/austinjijo2008/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/austinjijo2008/leetcode/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/austinjijo2008/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/austinjijo2008/leetcode/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/austinjijo2008/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
