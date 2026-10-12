@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/austinjijo2008/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
 | [1492-the-kth-factor-of-n](https://github.com/austinjijo2008/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [3099-harshad-number](https://github.com/austinjijo2008/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Queue
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
