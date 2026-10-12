@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/austinjijo2008/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/austinjijo2008/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [3099-harshad-number](https://github.com/austinjijo2008/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Queue
 |  |
@@ -140,4 +141,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/austinjijo2008/leetcode/tree/master/1392-longest-happy-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/austinjijo2008/leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/austinjijo2008/leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
