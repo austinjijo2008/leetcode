@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/austinjijo2008/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/austinjijo2008/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/austinjijo2008/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0520-detect-capital](https://github.com/austinjijo2008/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/austinjijo2008/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/austinjijo2008/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/austinjijo2008/leetcode/tree/master/0709-to-lower-case) |
