@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/austinjijo2008/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/austinjijo2008/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/austinjijo2008/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/austinjijo2008/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1234-replace-the-substring-for-balanced-string](https://github.com/austinjijo2008/leetcode/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/austinjijo2008/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/austinjijo2008/leetcode/tree/master/1392-longest-happy-prefix) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/austinjijo2008/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
 | ------- |
