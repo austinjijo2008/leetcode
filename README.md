@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/austinjijo2008/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/austinjijo2008/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/austinjijo2008/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0504-base-7](https://github.com/austinjijo2008/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/austinjijo2008/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/austinjijo2008/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/austinjijo2008/leetcode/tree/master/0657-robot-return-to-origin) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/austinjijo2008/leetcode/tree/master/0504-base-7) |
 | [1492-the-kth-factor-of-n](https://github.com/austinjijo2008/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [3099-harshad-number](https://github.com/austinjijo2008/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Queue
