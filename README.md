@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/austinjijo2008/leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/austinjijo2008/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/austinjijo2008/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1518-water-bottles](https://github.com/austinjijo2008/leetcode/tree/master/1518-water-bottles) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/austinjijo2008/leetcode/tree/master/0504-base-7) |
 | [1492-the-kth-factor-of-n](https://github.com/austinjijo2008/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1518-water-bottles](https://github.com/austinjijo2008/leetcode/tree/master/1518-water-bottles) |
 | [3099-harshad-number](https://github.com/austinjijo2008/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Queue
 |  |
