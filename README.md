@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/austinjijo2008/leetcode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/austinjijo2008/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/austinjijo2008/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/austinjijo2008/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Sliding Window
 |  |
