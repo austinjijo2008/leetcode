@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/austinjijo2008/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/austinjijo2008/leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/austinjijo2008/leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/austinjijo2008/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/austinjijo2008/leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/austinjijo2008/leetcode/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
