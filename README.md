@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/austinjijo2008/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/austinjijo2008/leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0400-nth-digit](https://github.com/austinjijo2008/leetcode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/austinjijo2008/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/austinjijo2008/leetcode/tree/master/0504-base-7) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0400-nth-digit](https://github.com/austinjijo2008/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
