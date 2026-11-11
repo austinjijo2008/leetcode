@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/austinjijo2008/leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/austinjijo2008/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/austinjijo2008/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/austinjijo2008/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/austinjijo2008/leetcode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/austinjijo2008/leetcode/tree/master/0415-add-strings) |
@@ -135,12 +136,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/austinjijo2008/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/austinjijo2008/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/austinjijo2008/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/austinjijo2008/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/austinjijo2008/leetcode/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
