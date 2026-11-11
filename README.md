@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/austinjijo2008/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/austinjijo2008/leetcode/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/austinjijo2008/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/austinjijo2008/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/austinjijo2008/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/austinjijo2008/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Recursion
 |  |
