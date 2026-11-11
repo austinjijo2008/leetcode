@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/austinjijo2008/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/austinjijo2008/leetcode/tree/master/0504-base-7) |
+| [0633-sum-of-square-numbers](https://github.com/austinjijo2008/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/austinjijo2008/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/austinjijo2008/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/austinjijo2008/leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/austinjijo2008/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/austinjijo2008/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/austinjijo2008/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/austinjijo2008/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/austinjijo2008/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/austinjijo2008/leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/austinjijo2008/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/austinjijo2008/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/austinjijo2008/leetcode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/austinjijo2008/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
