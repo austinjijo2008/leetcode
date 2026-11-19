@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/austinjijo2008/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/austinjijo2008/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/austinjijo2008/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/austinjijo2008/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/austinjijo2008/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/austinjijo2008/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/austinjijo2008/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1518-water-bottles](https://github.com/austinjijo2008/leetcode/tree/master/1518-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/austinjijo2008/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
