@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/austinjijo2008/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/austinjijo2008/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/austinjijo2008/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/austinjijo2008/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/austinjijo2008/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/austinjijo2008/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
@@ -215,4 +216,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/austinjijo2008/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/austinjijo2008/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
